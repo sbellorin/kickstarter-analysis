@@ -13,7 +13,7 @@
 In Deliverable 1, to visualize the campaign outcomes (successful, failed, and canceled) against the launch date, I created a pivot table and chart using the Kickstarter data. The length of the campaign and its' launch date do play an important role in campaign success.
 May and June are the best months to launch
 December is the worst month to launch
-![launch date](Theater_Outcomes_Launch_Date.p)
+![launch date](Theater_Outcomes_Launch_Date.png)
 
 
 
